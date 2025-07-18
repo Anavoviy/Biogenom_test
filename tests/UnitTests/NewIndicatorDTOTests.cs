@@ -8,7 +8,7 @@ public class Tests
     }
 
     [Test]
-    public void Test1()
+    public void CalculateValueFromFood()
     {
         // Arrange
         IndicatorForm indicatorForm = new IndicatorForm()
